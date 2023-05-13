@@ -1,6 +1,6 @@
 # Implementing Fully Connected NNs from scratch without any libraries
 
-**Setups : **
+**Setups:**
 
 **A. Networks**
   1. Just a linear layer with bias weights
